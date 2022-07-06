@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zheng Jing</h1>
 <h3 align="center">A developer from Singapore, pursuing a degree in CS at NUS!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leezhengjing" alt="leezhengjing" /></a> </p>
-
 - 🔭 I’m currently working on [Angela Yu's 100 Days of Python](https://github.com/leezhengjing/100DaysOfPython)
 
 - 🌱 I’m currently learning **Python, HTML and CSS**
