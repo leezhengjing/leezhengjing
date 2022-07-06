@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, HTML and CSS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/leezhengjing?tab=repositories](https://github.com/leezhengjing?tab=repositories)
+- 👨‍💻 All of my projects are available over [here!](https://github.com/leezhengjing?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
