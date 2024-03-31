@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zheng Jing</h1>
 <h3 align="center">A developer from Singapore, pursuing a degree in CS at NUS!</h3>
 
-- 🔭 I’m currently working on [Angela Yu's 100 Days of Python](https://github.com/leezhengjing/100DaysOfPython)
+- 🔭 I’m currently working on solving Leetcode. Chekc out my profile [here!](https://leetcode.com/user9862Uy/)
 
 - 🌱 I’m currently learning **Python, HTML and CSS**
 
