@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Zheng Jing</h1>
 <h3 align="center">A developer from Singapore, pursuing a degree in CS at NUS!</h3>
 
-- 🔭 I’m currently working on solving Leetcode. Chekc out my profile [here!](https://leetcode.com/user9862Uy/)
+- Check out my website [here!](https://leezhengjing.vercel.app)
+
+- 🔭 I’m currently working on solving Leetcode. Check out my profile [here!](https://leetcode.com/user9862Uy/)
 
 - 🌱 I’m currently learning **Python, HTML and CSS**
 
