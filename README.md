@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zheng Jing</h1>
 <h3 align="center">A developer from Singapore, pursuing a degree in CS at NUS!</h3>
 
-- Check out my website [here!](https://leezhengjing.me)
+- Check out my website [leezhengjing.me!](https://leezhengjing.me)
 
 - 🔭 I’m currently working on solving Leetcode. Check out my profile [here!](https://leetcode.com/user9862Uy/)
 
