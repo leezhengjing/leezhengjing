@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on solving Leetcode. Check out my profile [here!](https://leetcode.com/user9862Uy/)
 
-- 🌱 I’m currently learning **Python, HTML and CSS**
+- 🌱 I’m currently learning working on the Coursera course: Google IT Automation with Python Professional Certificate.
 
 - 👨‍💻 All of my projects are available over [here!](https://github.com/leezhengjing?tab=repositories)
 
